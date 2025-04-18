@@ -1,2 +1,5 @@
 *.jpg
 *.csv
+.venv
+download.py
+hagrid/dataset/*.zip
