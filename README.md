@@ -18,8 +18,7 @@ Before running the project, ensure you have the following installed:
 1. Python 3.x
 2. OpenCV 
 3. MediaPipe 
-4. TensorFlow 
-5. NumPy
+4. NumPy <2
 
 ## Installation
 
