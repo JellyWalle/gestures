@@ -2,4 +2,5 @@
 *.csv
 .venv
 download.py
-hagrid/dataset/*.zip
+app.py
+detector.py
